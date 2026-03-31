@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "優しい噓",
+  "base_artist": "棗いつき",
+  "createdAt": "2026-03-31T04:36:58.350055Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しい噓",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_優しい噓_棗いつき.txt"
+    }
+  ]
+}
